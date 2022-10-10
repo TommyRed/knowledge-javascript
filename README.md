@@ -26,6 +26,8 @@
 
 - [Abstract Introduction to React Internals](https://dev.to/subhakundu/abstract-introduction-to-react-internals-4gef)
 - [React 18: Terms and Functionality](https://dev.to/laurieontech/react-18-terms-and-functionality-165l)
+- [Why React re-renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
+- [Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
 
 ## Stuff to use
 
